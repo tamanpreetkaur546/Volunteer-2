@@ -1,0 +1,71 @@
+
+
+
+header{background-color:#081A2F ;
+     
+    
+    height: 70px;
+    display:flex;
+    justify-content: space-between;
+    text-align:center;
+    flex-direction:row;
+
+
+}
+.heading{
+    color:aliceblue
+}
+nav{ display:flex;
+    text-align: center;
+    padding:20px;
+    flex-direction: row;
+
+    gap:20px;
+}
+main{
+    background-image:url("https://static.vecteezy.com/system/resources/thumbnails/073/214/393/small_2x/beach-cleanup-volunteers-smiling-and-holding-trash-bags-on-a-sunny-day-by-the-ocean-shoreline-in-a-group-with-clear-blue-sky-in-the-background-photo.jpeg");
+
+    background-size:cover;
+    height: 520px;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    
+
+}
+
+
+footer{background-color:#081A2F;
+    
+    display:flex;
+    flex-direction:row;
+    padding:10px;
+    justify-content:space-between;
+    height: 50px;
+    
+    text-align:left;
+
+
+}
+.footer{
+    display:inline-block;
+    padding: 20px;
+    margin-right:20px;
+
+}
+
+button{
+    width:20%;
+    height:50px;
+    background-color: #081A2F;
+    display:inline-block;
+    
+}
+#button{
+    display:block;
+}
+p{
+    color:rgb(199, 218, 234) ;
+}
