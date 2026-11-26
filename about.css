@@ -13,7 +13,7 @@ header {
     text-align: center;
     padding: 5px;
     margin:0;
-    width:100%;
+    width:1280px;
     display:flex;
     justify-content: space-between;
 }
@@ -37,7 +37,7 @@ nav{
     text-align: center;
     color: white;
     margin:0;
-    width:100%;
+    width:1260px;
     
 }
 
@@ -114,6 +114,7 @@ footer {
     padding: 15px;
     margin-top: 20px;
     height:100px;
+    width:1280px
 }
 
 
