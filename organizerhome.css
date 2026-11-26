@@ -1,6 +1,42 @@
 
 
 
+header{background-color:#081A2F ;
+     
+    
+    height: 70px;
+    display:flex;
+    justify-content: space-between;
+    text-align:center;
+    flex-direction:row;
+
+
+}
+.heading{
+    color:aliceblue
+}
+nav{ display:flex;
+    text-align: center;
+    padding:20px;
+    flex-direction: row;
+
+    gap:20px;
+}
+main{
+    background-image:url("https://koala.sh/api/image/v2-bxojf-y8ywp.jpg?width=1344&height=768&dream");
+
+    background-size:cover;
+    height: 600px;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    
+
+}
+
+
 footer{background-color:#081A2F;
     
     display:flex;
@@ -34,4 +70,3 @@ button{
 p{
     color:rgb(199, 218, 234) ;
 }
-
